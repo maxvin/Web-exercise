@@ -1,0 +1,2 @@
+D:\Web\exercise\node.js\Cheer_Jeer\obj\Debug\Cheer_Jeer.njsprojResolveAssemblyReference.cache
+D:\Web\exercise\node.js\Cheer_Jeer\bin\Microsoft.NodejsTools.WebRole.dll
